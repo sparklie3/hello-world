@@ -1,1 +1,2 @@
 This is something I wrote in a vim file
+this is the new second line
